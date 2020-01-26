@@ -1,6 +1,6 @@
 # UX Inspirations
 
-The [showcase app](real-life-example) contains several demonstrations that draw inspiration from beautiful real life apps that we really like. The purpose of the showcase app is to learn from these use-cases and see how they could have been implemented with this library.
+The [showcase app](https://github.com/wix/react-native-interactable/tree/master/playground) contains several demonstrations that draw inspiration from beautiful real life apps that we really like. The purpose of the showcase app is to learn from these use-cases and see how they could have been implemented with this library.
 
 These are the great apps that inspired the demonstrations:
 
